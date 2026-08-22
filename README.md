@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💫 About Me:
+**I'm currently working on**<br>- Building out the **XorShield SOC Home Lab** (Wazuh SIEM, Kali Linux, Metasploitable 2)<br>- Hands-on VAPT and penetration testing projects for my portfolio<br>- Working toward my first **SOC Analyst L1** role<br><br>**I'm looking to collaborate on**<br>- **Hajime Group** — a peer cybersecurity study community I run<br>- Open-source SOC/blue-team tooling and documentation projects<br><br>**I'm looking for help with**<br>- Breaking into the **UK remote cybersecurity job market**<br>- Feedback and mentorship on SOC Analyst L1 applications and interviews<br><br>**I'm currently learning**<br><br><summary><b>Foundations of Cybersecurity & Computing</b></summary><br><br>- What is Cybersecurity & its Importance<br>- Evolution & Domains of Cybersecurity<br>- Key Terminologies (Threat, Vulnerability, Exploit)<br>- CIA Triad, AAA, and Risk Concepts<br>- Overview of Cybersecurity Roles (SOC, PenTest, GRC)<br>- Ethics in Cybersecurity<br>- Linux and Windows Fundamentals<br><br><summary><b>Networking & Threat Fundamentals</b></summary><br><br>- OSI & TCP/IP Models<br>- Network Topologies & Devices<br>- IP Addressing, DNS, Subnetting<br>- Common Network Threats (DoS, Spoofing, Sniffing)<br>- Attack Vectors (Phishing, Malware, Social Engineering)<br>- Defense-in-Depth Strategies<br><br><summary><b>Defensive Security Operations (SOC & Incident Response)</b></summary><br><br>- SOC Structure, Roles & Escalation Tiers<br>- Introduction to SIEM (Wazuh, Splunk)<br>- Log Analysis & Correlation<br>- Incident Response Lifecycle (NIST)<br>- Documentation & Reporting<br>- IOC Identification<br>- Career Focus Workshop & Reflection<br><br><summary><b>Offensive Security & Vulnerability Management</b></summary><br><br>- Introduction to Ethical Hacking<br>- PTES and OWASP Frameworks<br>- Reconnaissance & Scanning (Active/Passive)<br>- Vulnerability Scanning & Exploitation<br>- OWASP Top 10 Vulnerabilities<br>- Reporting & Documentation<br><br><summary><b>Cloud Security & Identity Management</b></summary><br><br>- Basics of Cloud Computing (IaaS, PaaS, SaaS)<br>- Shared Responsibility Model<br>- Identity & Access Management (IAM)<br>- Cloud Security Threats & Best Practices<br>- Introduction to Azure & AWS Security Tools<br><br><br><summary><b>Governance, Risk & Compliance (GRC)</b></summary><br><br>- Introduction to Governance & Compliance<br>- ISO 27001, NIST CSF Frameworks<br>- Risk Management Process (Identify → Treat → Monitor)<br>- Policy Creation & Enforcement<br>- Security Audits & Awareness Training<br><br>- Also pursuing **CompTIA Network+, Security+, and CySA+**<br><br>**Ask me about**<br>- SOC operations, log analysis, and incident response<br>- Vulnerability assessment & penetration testing (VAPT)<br>- Networking fundamentals and Cisco Packet Tracer labs<br><br>**Fun fact**<br>- Outside of cybersecurity, I run **Reformers Cave**, a Christian ministry YouTube channel, and help administer **Fortress of Mercy Int'l School of Ministry**<br><br></td></tr><br></table>
 
-<!--
-**XORSHIELD/xorshield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/xorshield.joseph.danjuma/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/xorshield_1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/xorshield) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@xorshield) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@xorshield) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Xorshield) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Xorshield) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xorshield@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=xorshield&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=xorshield&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=xorshield&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=xorshield&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=xorshield&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/xorshield) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
