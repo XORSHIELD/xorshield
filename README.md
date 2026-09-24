@@ -279,19 +279,19 @@ I'm open to connecting with cybersecurity professionals, developers, technology 
   <img src="https://img.shields.io/badge/GitHub-XORSHIELD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="LINKEDIN_URL_HERE">
+<a href="https://www.linkedin.com/in/xorshield/">
   <img src="https://img.shields.io/badge/LinkedIn-Add_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="xorshield@gmail.com">
   <img src="https://img.shields.io/badge/Email-Add_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="TWITTER_X_URL_HERE">
+<a href="https://x.com/Xorshield">
   <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Add_Profile-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
 </a>
 
-<a href="INSTAGRAM_URL_HERE">
+<a href="https://www.instagram.com/xorshield_1/">
   <img src="https://img.shields.io/badge/Instagram-Add_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
